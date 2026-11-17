@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaime Ayoub :D</h1>
+<h1 align="center">Hi, I'm Jaime Ayoub o/ </h1>
 
 <p align="center">
   <b>Game Developer</b> · Unity (C#) · Unreal Engine (C++ / Blueprints)<br>
@@ -15,8 +15,7 @@
 
 ## About me
 
-Currently learning about shaders and VFX. Gameplay, UI, Combat Programmer.
-I'm currently working on my thesis in **Unreal Engine 5**, exploring shaders and VFX in a Sumi-e style.
+Gameplay, UI and combat programmer, currently learning shaders and VFX. My thesis in Unreal Engine 5 explores a Sumi-e style.
 
 ## Tech stack
 
@@ -49,7 +48,3 @@ You're a virus inside a PC, taking down the ships that protect the computer.
 - 🎮 itch.io: [pickleman325](https://pickleman325.itch.io)
 - 📧 Email: ayoubramosjaime@gmail.com
 - 💼 LinkedIn: *https://www.linkedin.com/in/jaime-ayoub/*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeAyoub&layout=compact&theme=dark" alt="Top languages" />
-</p>
