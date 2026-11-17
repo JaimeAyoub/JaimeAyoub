@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jaime Ayoub 👋</h1>
+<h1 align="center">Hi, I'm Jaime Ayoub :D</h1>
 
 <p align="center">
   <b>Game Developer</b> · Unity (C#) · Unreal Engine (C++ / Blueprints)<br>
@@ -15,9 +15,8 @@
 
 ## About me
 
-I'm a game programmer finishing my Bachelor's in Video Game Programming at **SAE Institute México** (2024–2027). I like building combat systems and visual effects, especially stylized ones: ink, pixel art and everything in between.
-
-I'm currently working on my thesis in **Unreal Engine 5**, exploring shaders and VFX in a Sumi-e (Japanese ink painting) style.
+Currently learning about shaders and VFX. Gameplay, UI, Combat Programmer.
+I'm currently working on my thesis in **Unreal Engine 5**, exploring shaders and VFX in a Sumi-e style.
 
 ## Tech stack
 
@@ -41,20 +40,15 @@ A team-made horror/action game where you play as an exorcist and fight demons by
 ### 🚀 [Don't download RAM from the internet](https://github.com/JaimeAyoub/StarFoxUnreal) · Unreal Engine 5
 You're a virus inside a PC, taking down the ships that protect the computer.
 
-### ⌨️ Typeo · Unity
-A typing-based combat prototype: write words to damage enemies.
-
-### 🐮 Moory Up Cowboy · Unity VR
-A team VR game where you capture as many cows as you can before time runs out. I worked on **AI and level design**. [Play it on itch.io](https://pickleman325.itch.io)
 
 > More projects and videos in my [portfolio](https://jaimeayoub.github.io/PortafolioWeb/).
 
-## Let's connect
+## Contact
 
 - 🌐 Portfolio: [jaimeayoub.github.io/PortafolioWeb](https://jaimeayoub.github.io/PortafolioWeb/)
 - 🎮 itch.io: [pickleman325](https://pickleman325.itch.io)
-- 📧 Email: *[your email]*
-- 💼 LinkedIn: *[your LinkedIn]*
+- 📧 Email: ayoubramosjaime@gmail.com
+- 💼 LinkedIn: *https://www.linkedin.com/in/jaime-ayoub/*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeAyoub&layout=compact&theme=dark" alt="Top languages" />
