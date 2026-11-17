@@ -26,7 +26,7 @@ Gameplay, UI and combat programmer, currently learning shaders and VFX. My thesi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Also:** Raylib · Niagara · Shaders & materials 
+**Also:** Raylib · Niagara · Blueprints · Shaders & materials 
 
 ## Featured projects
 
